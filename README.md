@@ -1,4 +1,4 @@
-A master degree candidate studying in BUAA.
+A master degree candidate studying at BUAA.//
 Learning to apply AMR in noise prediction numerical simulation...
 <!---
 mafiami/mafiami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
